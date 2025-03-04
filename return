@@ -1,0 +1,23 @@
+[33mcommit fc4dc22977e1e1c9e696d24af5b9229f31d9172d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMalay[m[33m, [m[1;31morigin/baddest[m[33m, [m[1;31morigin/Malay[m[33m, [m[1;31morigin/Davido[m[33m)[m
+Author: Agu803eh <agu803eh@gmail.com>
+Date:   Mon Mar 3 10:04:37 2025 +0100
+
+    My baby boo
+
+[1mdiff --git a/Wizkid b/Wizkid[m
+[1mnew file mode 160000[m
+[1mindex 0000000..7ebdf43[m
+[1m--- /dev/null[m
+[1m+++ b/Wizkid[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mSubproject commit 7ebdf43852fe806adf58374a1043d06844e734b9[m
+[1mdiff --git a/git.html b/git.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/git.py b/git.py[m
+[1mindex e69de29..bc4c71e 100644[m
+[1m--- a/git.py[m
+[1m+++ b/git.py[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mprint("We are learning git")[m
+\ No newline at end of file[m
